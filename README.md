@@ -1,4 +1,4 @@
-# DiplomaThesisStringMatching
+# Diploma Thesis - String Matching
 
 A github repository for my diploma thesis.
 
