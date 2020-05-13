@@ -27,3 +27,6 @@ Head of Department: prof. Ing. Igor Farkaš, Dr.
 Assigned: 14.10.2019
 
 Approved: 15.10.2019
+
+PDF: https://www.overleaf.com/read/ckmfwjftyfvd
+
