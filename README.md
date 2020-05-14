@@ -1,5 +1,7 @@
 # Diploma Thesis - String Matching
 
+PDF with cited articles in .bib file: https://www.overleaf.com/read/ckmfwjftyfvd
+
 A github repository for my diploma thesis.
 
 Name and Surname: Bc. Soňa Senkovičová
@@ -27,6 +29,3 @@ Head of Department: prof. Ing. Igor Farkaš, Dr.
 Assigned: 14.10.2019
 
 Approved: 15.10.2019
-
-PDF: https://www.overleaf.com/read/ckmfwjftyfvd
-
