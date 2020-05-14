@@ -2,6 +2,8 @@
 
 PDF with cited articles in .bib file: https://www.overleaf.com/read/ckmfwjftyfvd
 
+Presentation with details of our progress throughout this semester: https://docs.google.com/presentation/d/1xNCcmJ_e83mbN8Yr7hNNkDLrQdyV4NTK9V2EZwevX5E/edit?usp=sharing
+
 A github repository for my diploma thesis.
 
 Name and Surname: Bc. Soňa Senkovičová
