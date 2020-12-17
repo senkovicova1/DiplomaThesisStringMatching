@@ -1,6 +1,6 @@
 # Diploma Thesis - String Matching
 
-PDF with cited articles in .bib file: https://www.overleaf.com/read/ckmfwjftyfvd
+PDF of my thesis: https://www.overleaf.com/read/ckmfwjftyfvd
 
 Presentation with details of our progress throughout this semester: https://docs.google.com/presentation/d/1xNCcmJ_e83mbN8Yr7hNNkDLrQdyV4NTK9V2EZwevX5E/edit?usp=sharing
 
