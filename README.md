@@ -17,7 +17,6 @@ Behavioural analysis of an inherited speech and language disorder: comparison wi
 K. E. Watkins, N. F. Dronkers, F. Vargha‐Khadem
 https://academic.oup.com/brain/article/125/3/452/3888146
 
-
 A github repository for my diploma thesis.
 
 Name and Surname: Bc. Soňa Senkovičová
